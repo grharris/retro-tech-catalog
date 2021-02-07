@@ -1,0 +1,18 @@
+body {
+ background-image: url("assets/lavender.jpg");
+ background-size: cover;
+}
+
+a:hover {
+  color: #1e824c;
+}
+
+#logo {
+  border-radius: 50%;
+  width: 50%;
+  border: 2px solid #1e824c;
+}
+
+.card img {
+  height: 310px;
+}
