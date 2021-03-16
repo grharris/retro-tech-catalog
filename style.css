@@ -1,7 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Open+Sans&display=swap');
+
 a:hover {
   color: #1e824c;
 }
 
 .card img {
   height: 310px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'DotGothic16', sans-serif;
 }
